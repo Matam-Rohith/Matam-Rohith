@@ -5,10 +5,10 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 ---
 
 ## 📖 Table of Contents
-- [🙋‍♂️ About Me](#about-me)
-- [🛠️ Skills](#skills)
-- [🚀 Projects](#projects)
-- [📬 Contact](#contact)
+- [🙋‍♂️ About Me](https://github.com/Matam-Rohith#%EF%B8%8F-about-me)
+- [🛠️ Skills](https://github.com/Matam-Rohith#%EF%B8%8F-skills)
+- [🚀 Projects](https://github.com/Matam-Rohith#-projects)
+- [📬 Contact](https://github.com/Matam-Rohith#-contact)
 
 ---
 
