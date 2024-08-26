@@ -1,16 +1,63 @@
-## Hi there 👋
+# 🌟 MATAM ROHITH
 
+Welcome to my personal profile repository! Here, you'll find everything about me, my skills, projects, and how to connect with me. Dive in and let's get to know each other!
+
+---
+
+## 📖 Table of Contents
+- [🙋‍♂️ About Me](#about-me)
+- [🛠️ Skills](#skills)
+- [🚀 Projects](#projects)
+- [📬 Contact](#contact)
+
+---
+
+## 🙋‍♂️ About Me
+
+Hello! I'm *Matam Rohith, a passionate Undergraduate with a love for **Machine Learning and Web Development*. I thrive on challenges and enjoy working on projects that involve these cutting-edge technologies. My journey is driven by curiosity and the pursuit of knowledge.
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming Languages
+- *C*
+- *JAVA*
+- *PYTHON*
 <!--
-**Matam-Rohith/Matam-Rohith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📚 Frameworks & Libraries
+- *[Framework 1]*
+- *[Framework 2]*
+- *[Framework 3]*
 -->
+### 🛠️ Tools & Platforms
+- *VISUAL STUDIO*
+- *GOOGLE COLAB*
+- *JUPTIOR NOTEBOOK*
+
+### 🌱 Soft Skills
+- *Team Work*
+- *Communication*
+- *Time Management*
+- *Problem Solving*
+---
+
+## 🚀 Projects
+
+### 🚶‍♂️ Cancer prediction
+- *Description*: Developed a HAR system and a cancer prediction model using Python for your AIML project!.
+- *Technologies*: Python
+- *Repository*: [Link of repository](https://github.com/Matam-Rohith/AIML-LABS/blob/main/Cancer%20Prediction.ipynb)
+
+---
+
+## 📬 Contact
+
+Let's connect! You can find me on these platforms:
+
+-  *LinkedIn:* https://www.linkedin.com/in/matam-rohith-1418ab1b4/
+-  *GitHub:* https://github.com/Matam-Rohith
+
+---
+
+✨ Thank you for visiting my profile! I'm always excited to explore new opportunities and collaborations. Let's build something great together! ✨
