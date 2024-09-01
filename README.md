@@ -61,4 +61,4 @@ Let's connect! You can find me on these platforms:
 
 ---
 
-✨ Thank you for visiting my profile! I'm always excited to explore new opportunities and collaborations. Let's build something great together! ✨
+✨Thank you for visiting my profile! I'm always excited to explore new opportunities and collaborations. Let's build something great together!✨
