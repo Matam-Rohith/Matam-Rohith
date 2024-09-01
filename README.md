@@ -57,6 +57,7 @@ Let's connect! You can find me on these platforms:
 
 -  *LinkedIn:* https://www.linkedin.com/in/matam-rohith-1418ab1b4/
 -  *GitHub:* https://github.com/Matam-Rohith
+-  *credly*  https://www.credly.com/users/matam-rohith.286a181b
 
 ---
 
