@@ -55,11 +55,10 @@ Hello! I'm *Matam Rohith, a passionate Undergraduate with a love for **Machine L
  ### 🚶‍♂️ SMS Spam collection
 - *Description*: Developed a sms spam collection 
 - *Technologies*: python..
-- *Repository*: [Link of repository]("https://github.com/Matam-Rohith/NLP")
+- *Repository*: [Link of repository](https://github.com/Matam-Rohith/NLP/blob/main/sms_spam_detection_nlp.ipynb)
   
 
 ---
-
 ## 📬 Contact
 
 Let's connect! You can find me on these platforms:
