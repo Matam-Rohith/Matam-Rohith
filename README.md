@@ -48,6 +48,15 @@ Hello! I'm *Matam Rohith, a passionate Undergraduate with a love for **Machine L
 - *Description*: Developed a HAR system and a cancer prediction model using Python for your AIML project!.
 - *Technologies*: Python
 - *Repository*: [Link of repository](https://github.com/Matam-Rohith/AIML-LABS/blob/main/Cancer%20Prediction.ipynb)
+ ### 🚶‍♂️ Bank Mangagement System
+- *Description*: Developed a Bank management system using c.
+- *Technologies*: c
+- *Repository*: [Link of repository](https://github.com/Matam-Rohith/Bank-Management-system)
+ ### 🚶‍♂️ SMS Spam collection
+- *Description*: Developed a sms spam collection 
+- *Technologies*: python..
+- *Repository*: [Link of repository]("https://github.com/Matam-Rohith/NLP")
+  
 
 ---
 
