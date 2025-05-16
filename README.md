@@ -61,7 +61,6 @@ Hello! I'm *Matam Rohith, a passionate Undergraduate with a love for **Machine L
 - *Description*: Developed a Personal Budget Tracker where user can manage their expenses and income 
 - *Technologies*: Html,css,js,Servlets,JDBC
 - *Repository*: [Link of repository](https://github.com/Matam-Rohith/personal_budget_tracker)
-- 
   
 
 ---
