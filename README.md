@@ -2,7 +2,8 @@
 <h3 align="center" style="color:#00f7ff;">Aspiring Software Developer | AI & Web Dev Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F7FF&center=true&width=600&lines=Learning+to+Build+Impactful+Solutions.;Exploring+AI+%26+Web+Development.;Fueled+by+Curiosity+%26+Code." alt="Typing Animation" />
+ <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=FFD700&center=true&width=650&lines=On+a+mission+to+build+better+tech.;Exploring+AI%2C+ML%2C+and+Web+Innovation.;Open+to+collaborations+and+internships." alt="Typing Animation" />
+
 </p>
 
 ---
