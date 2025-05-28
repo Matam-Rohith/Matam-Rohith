@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C,Python,Java**
 
-- 👨‍💻 All of my projects are available at [https://rohiths-portfolio-three.vercel.app/](https://rohiths-portfolio-three.vercel.app/)
+- 👨‍💻 All of my projects are available at [(https://rohiths-portfolio-three.vercel.app/)]
 
 - 💬 Ask me about **C,python,java,html,CSS,AI&ML..etc.**
 
