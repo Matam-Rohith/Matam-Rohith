@@ -62,6 +62,7 @@
 </p>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=FF00FF&center=true&width=450&lines=Open+to+Internships+%26+Collabs!;Let's+Code+Something+Awesome!" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00BFFF&center=true&width=450&lines=Excited+to+Learn+and+Grow!;Let's+Build+the+Future+Together!" />
+
 
 </p>
