@@ -1,30 +1,64 @@
-<h1 align="center">Hi 👋, I'm MATAM ROHITH</h1>
-<h3 align="center">A Passionate Frontend Developer from India — Crafting Clean Code & Intuitive UI That Speak Louder Than Words.</h3>
+<h1 align="center" style="color:#ff00ff;">Hey there 👾, I'm <strong>Rohit Matam</strong></h1>
+<h3 align="center" style="color:#00f7ff;">Aspiring Software Developer | AI & Web Dev Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matam-rohith&label=Profile%20views&color=0e75b6&style=flat" alt="matam-rohith" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matam-rohith" alt="matam-rohith" /></a> </p>
-
-- 🌱 I’m currently learning **C,Python,Java**
-
-- 👨‍💻 All of my projects are available at [(https://rohiths-portfolio-three.vercel.app/)]
-
-- 💬 Ask me about **C,python,java,html,CSS,AI&ML..etc.**
-
-- 📫 How to reach me **matamrohith12614@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vgDO3YO2rEnL5xV7ZVZlFvnhe7Leh7T4/view?usp=drive_link](https://drive.google.com/file/d/1vgDO3YO2rEnL5xV7ZVZlFvnhe7Leh7T4/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/matam-rohith-1418ab1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matam-rohith-1418ab1b4/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F7FF&center=true&width=600&lines=Learning+to+Build+Impactful+Solutions.;Exploring+AI+%26+Web+Development.;Fueled+by+Curiosity+%26+Code." alt="Typing Animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matam-rohith&show_icons=true&locale=en&layout=compact" alt="matam-rohith" /></p>
+## 🌌 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matam-rohith&show_icons=true&locale=en" alt="matam-rohith" /></p>
+- 🚀 Exploring **web development**, **AI/ML**, and **front-end design**
+- 💡 Passionate about building real-world projects and solving challenges
+- 📚 Love to learn through projects, open-source, and coding platforms
+- 📧 Contact: **matamrohith12614@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matam-rohith&" alt="matam-rohith" /></p>
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,react,vscode,github" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+- 💰 [**Personal Budget Tracker**](https://github.com/Matam-Rohith/personal_budget_tracker) – A web app to manage income & expenses effectively  
+- 🏦 [**Bank Management System**](https://github.com/Matam-Rohith/Bank-Management-system) – Console-based Java system for bank operations  
+- 🧬 [**Cancer Prediction (AI/ML)**](https://github.com/Matam-Rohith/AIML-LABS/blob/main/Cancer%20Prediction.ipynb) – Jupyter notebook to predict cancer using ML models
+
+---
+
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matam-Rohith&theme=monokai" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matam-Rohith&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matam-Rohith&layout=compact&theme=monokai" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Matam-Rohith&theme=monokai&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matam-rohith-1418ab1b4/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Matam-Rohith"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/matam_rohith/"><img src="https://img.shields.io/badge/LeetCode-FE7F2D?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://drive.google.com/file/d/1vgDO3YO2rEnL5xV7ZVZlFvnhe7Leh7T4/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+  <a href="https://rohiths-portfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=FF00FF&center=true&width=450&lines=Open+to+Internships+%26+Collabs!;Let's+Code+Something+Awesome!" />
+</p>
