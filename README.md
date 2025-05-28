@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#ff00ff;">Hey there 👾, I'm <strong>Rohit Matam</strong></h1>
+<h1 align="center" style="color:#ff00ff;">Hey there 🥰, I'm <strong>Matam Rohith</strong></h1>
 <h3 align="center" style="color:#00f7ff;">Aspiring Software Developer | AI & Web Dev Enthusiast</h3>
 
 <p align="center">
