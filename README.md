@@ -58,7 +58,8 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" />
+     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text=The+best+way+to+predict+the+future+is+to+invent+it." />
+   
 </p>
 
 <p align="center">
