@@ -31,6 +31,8 @@
 - 💰 [**Personal Budget Tracker**](https://github.com/Matam-Rohith/personal_budget_tracker) – A web app to manage income & expenses effectively  
 - 🏦 [**Bank Management System**](https://github.com/Matam-Rohith/Bank-Management-system) – Console-based Java system for bank operations  
 - 🧬 [**Cancer Prediction (AI/ML)**](https://github.com/Matam-Rohith/AIML-LABS/blob/main/Cancer%20Prediction.ipynb) – Jupyter notebook to predict cancer using ML models
+- 💻 [**E-Commerce Website**)**](https://github.com/Matam-Rohith/E-Commerce-Website) – A full-stack online store with product listings, cart, filters, Stripe payment, and admin panel for inventory management
+- 
 
 ---
 
