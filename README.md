@@ -1,71 +1,105 @@
-<h1 align="center" style="color:#ff00ff;">Hey there 🥰, I'm <strong>Matam Rohith</strong></h1>
-<h3 align="center" style="color:#00f7ff;">Aspiring Software Developer | AI & Web Dev Enthusiast</h3>
+<div align="center">
 
-<p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00BFFF&center=true&width=650&lines=On+a+mission+to+build+better+tech.;Exploring+AI%2C+ML%2C+and+Web+Innovation.;Open+to+collaborations+and+internships." alt="Typing Animation" />
+# Matam Rohith
 
+### Full Stack Developer · AI/ML Enthusiast · Open to Internships & Freelance
 
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rohith-portfolio-six.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matam-rohith-1418ab1b4/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1vgDO3YO2rEnL5xV7ZVZlFvnhe7Leh7T4/view)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matamrohith12614@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Matam-Rohith&color=0e75b6&style=flat-square)
+
+</div>
 
 ---
 
-## 🌌 About Me
+## 🧑‍💻 About Me
 
-- 🚀 Exploring **web development**, **AI/ML**, and **front-end design**
-- 💡 Passionate about building real-world projects and solving challenges
-- 📚 Love to learn through projects, open-source, and coding platforms
-- 📧 Contact: **matamrohith12614@gmail.com**
+Final-year Computer Science student at **SR University, Hyderabad** with hands-on experience building full-stack web applications and machine learning solutions. I enjoy turning ideas into deployed products — from e-commerce platforms to AI-powered classifiers.
+
+- 🎓 B.Tech in Computer Science — SR University (2022–2026)
+- 💼 Actively seeking **internships**, **entry-level roles**, and **freelance projects** in Web Development & AI/ML
+- 🌐 Portfolio: [rohith-portfolio-six.vercel.app](https://rohith-portfolio-six.vercel.app/)
+- 📧 Reach me: **matamrohith12614@gmail.com**
+- 📍 Hyderabad, Telangana, India
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,react,vscode,github" />
-</p>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
+
+**AI / ML**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-- 💰 [**Personal Budget Tracker**](https://github.com/Matam-Rohith/personal_budget_tracker) – A web app to manage income & expenses effectively  
-- 🏦 [**Bank Management System**](https://github.com/Matam-Rohith/Bank-Management-system) – Console-based Java system for bank operations  
-- 🧬 [**Cancer Prediction (AI/ML)**](https://github.com/Matam-Rohith/AIML-LABS/blob/main/Cancer%20Prediction.ipynb) – Jupyter notebook to predict cancer using ML models
-- 💻 [**E-Commerce Website**)**](https://github.com/Matam-Rohith/E-Commerce-Website) – A full-stack online store with product listings, cart, filters, Stripe payment, and admin panel for inventory management
-- 
-
----
-
-## 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matam-Rohith&theme=monokai" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matam-Rohith&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matam-Rohith&layout=compact&theme=monokai" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Matam-Rohith&theme=monokai&no-bg=true&margin-w=10" />
-</p>
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| 🏢 **TalentFlow HRM** | HR Management System — employee onboarding, attendance tracking & payroll dashboard | JavaScript, Node.js | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/TalentFlow-HRM) |
+| 🛒 **E-Commerce Platform** | Full-stack online store with Stripe payments, product filters, cart & admin panel | HTML, CSS, JS | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/E-Commerce-Website) |
+| 💰 **Personal Budget Tracker** | Finance tracker with category-wise expenses, budget alerts & visual reports | AngularJS, JS | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/personal_budget_tracker) |
+| 🔗 **URL Shortener** | Full-stack URL shortener with custom aliases & QR code generation | HTML, CSS, JS | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/URL_Shortener) |
+| 📩 **SMS Spam Detector** | NLP-based spam classifier using Naive Bayes & TF-IDF — 97%+ accuracy | Python, scikit-learn | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/SMS-Spam-Detection) |
+| 📝 **Notes App** | Feature-rich notes manager — create, tag, search & organize notes | TypeScript | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/notes-app) |
 
 ---
 
-## 🔗 Let's Connect
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matam-rohith-1418ab1b4/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Matam-Rohith"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/matam_rohith/"><img src="https://img.shields.io/badge/LeetCode-FE7F2D?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://drive.google.com/file/d/1vgDO3YO2rEnL5xV7ZVZlFvnhe7Leh7T4/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
-  <a href="https://rohiths-portfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Matam-Rohith&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matam-Rohith&layout=compact&theme=default&hide_border=true" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Matam-Rohith&theme=default&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text=The+best+way+to+predict+the+future+is+to+invent+it." />
-   
-</p>
+## 🔗 Connect With Me
 
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00BFFF&center=true&width=450&lines=Excited+to+Learn+and+Grow!;Let's+Build+the+Future+Together!" />
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matam-rohith-1418ab1b4/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rohith-portfolio-six.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FE7F2D?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/matam_rohith/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matam-Rohith)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matamrohith12614@gmail.com)
 
-</p>
+</div>
+
+---
+
+<div align="center">
+  <sub>💡 Always learning · Always building · Open to opportunities</sub>
+</div>
