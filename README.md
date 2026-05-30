@@ -2,7 +2,8 @@
 
 # Matam Rohith
 
-### Full Stack Developer · AI/ML Enthusiast · Open to Internships & Freelance
+### Full-Stack Developer | Building Scalable Web Applications & AI-Powered Solutions | Open to Internships, Freelance Opportunities, and Collaborations
+
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rohith-portfolio-six.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matam-rohith-1418ab1b4/)
