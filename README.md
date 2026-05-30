@@ -1,71 +1,48 @@
-<h1 align="center" style="color:#ff00ff;">Hey there 🥰, I'm <strong>Matam Rohith</strong></h1>
-<h3 align="center" style="color:#00f7ff;">Aspiring Software Developer | AI & Web Dev Enthusiast</h3>
+<div align="center">
 
-<p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00BFFF&center=true&width=650&lines=On+a+mission+to+build+better+tech.;Exploring+AI%2C+ML%2C+and+Web+Innovation.;Open+to+collaborations+and+internships." alt="Typing Animation" />
+## Matam Rohith
+### Full Stack Developer · AI/ML Enthusiast
 
+[![Open to Work](badge)] · [Portfolio] · [LinkedIn] · [Resume]
 
-</p>
+"Building real-world software with clean code and clear purpose."
+
+</div>
 
 ---
 
-## 🌌 About Me
+## 🧑‍💻 About Me
 
-- 🚀 Exploring **web development**, **AI/ML**, and **front-end design**
-- 💡 Passionate about building real-world projects and solving challenges
-- 📚 Love to learn through projects, open-source, and coding platforms
-- 📧 Contact: **matamrohith12614@gmail.com**
+Final-year CS student at SR University (Hyderabad) with hands-on experience building full-stack web applications and ML-powered tools. I enjoy turning ideas into deployed products — from e-commerce platforms to AI classifiers. Actively seeking **internships, entry-level roles**, and **freelance opportunities** in web development and AI/ML.
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,react,vscode,github" />
-</p>
+**Languages:** Python · JavaScript · TypeScript · Java · C  
+**Frontend:** HTML5 · CSS3 · React · AngularJS  
+**Backend:** Node.js · Express  
+**AI/ML:** Scikit-learn · Pandas · NumPy · Jupyter  
+**Tools:** Git · GitHub · VS Code · Vercel  
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-- 💰 [**Personal Budget Tracker**](https://github.com/Matam-Rohith/personal_budget_tracker) – A web app to manage income & expenses effectively  
-- 🏦 [**Bank Management System**](https://github.com/Matam-Rohith/Bank-Management-system) – Console-based Java system for bank operations  
-- 🧬 [**Cancer Prediction (AI/ML)**](https://github.com/Matam-Rohith/AIML-LABS/blob/main/Cancer%20Prediction.ipynb) – Jupyter notebook to predict cancer using ML models
-- 💻 [**E-Commerce Website**)**](https://github.com/Matam-Rohith/E-Commerce-Website) – A full-stack online store with product listings, cart, filters, Stripe payment, and admin panel for inventory management
-- 
-
----
-
-## 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matam-Rohith&theme=monokai" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matam-Rohith&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matam-Rohith&layout=compact&theme=monokai" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Matam-Rohith&theme=monokai&no-bg=true&margin-w=10" />
-</p>
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| TalentFlow HRM | HR Management System | JS, Node | 🔗 |
+| E-Commerce Platform | Full-stack store with Stripe | HTML/CSS/JS | 🔗 |
+| SMS Spam Detector | NLP classifier (97% accuracy) | Python, sklearn | 🔗 |
+| Budget Tracker | Finance tracker with charts | AngularJS | 🔗 |
+| URL Shortener | Full-stack link shortener | HTML/JS | 🔗 |
+| Notes App | TypeScript notes manager | TypeScript | 🔗 |
 
 ---
 
-## 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/matam-rohith-1418ab1b4/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Matam-Rohith"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/matam_rohith/"><img src="https://img.shields.io/badge/LeetCode-FE7F2D?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://drive.google.com/file/d/1vgDO3YO2rEnL5xV7ZVZlFvnhe7Leh7T4/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
-  <a href="https://rohiths-portfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+## 📊 GitHub Stats [stats widgets]
 
 ---
 
-<p align="center">
-     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text=The+best+way+to+predict+the+future+is+to+invent+it." />
-   
-</p>
-
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00BFFF&center=true&width=450&lines=Excited+to+Learn+and+Grow!;Let's+Build+the+Future+Together!" />
-
-
-</p>
+## 📬 Connect With Me
+[LinkedIn] [Email] [Portfolio] [LeetCode] [Resume]
