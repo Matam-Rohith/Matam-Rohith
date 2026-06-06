@@ -65,6 +65,8 @@ rohith = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -82,6 +84,12 @@ rohith = {
 | 🔗 **URL Shortener** | Full-stack URL shortener with click analytics | `Node.js` `SQLite` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/URL_Shortener) | [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://url-shortener-na16.onrender.com/) |
 | 📩 **SMS Spam Detector** | NLP spam classifier — **97%+ accuracy** | `Python` `sklearn` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/SMS-spam--detection-) | [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://mamfegbtbyckxtr4ncu3nq.streamlit.app/) |
 | 📝 **Notes App** | TypeScript notes manager — tag, search & organize | `TypeScript` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/notes-app) | [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://notes-app-zeta-ruddy.vercel.app/) |
+| 🧮 **Calculator** | Feature-rich web calculator — modulus, exponentiation & more | `HTML` `CSS` `JS` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/Calculator-Project) | [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://matam-rohith.github.io/Calculator-Project/) |
+| ✅ **Task Manager** | Priority-based task manager with browser-local storage | `HTML` `CSS` `JS` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/Task_Management) | [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://matam-rohith.github.io/Task_Management/) |
+| 🎓 **Student Dashboard** | GPA calculator, attendance tracker & timetable manager | `JS` `HTML` `CSS` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/student-dashboard) | [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://matam-rohith.github.io/student-dashboard/) |
+| 🤖 **Autonomous AI Agent** | AI agent — reads emails, searches web, creates reports & schedules | `Python` `FastAPI` `LLM` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/autonomous-ai-agent) | [![Repo](https://img.shields.io/badge/View%20Repo-6C63FF?style=flat-square&logo=github&logoColor=white)](https://github.com/Matam-Rohith/autonomous-ai-agent) |
+| 🗄️ **Distributed File Storage** | File storage system with JWT auth & replication | `Python` `Flask` `SQLite` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/distributed-file-storage) | [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://matam-rohith.github.io/distributed-file-storage/) |
+| 🏦 **Banking QA Suite** | QA test suite — login, fund transfer & account testing | `HTML` `Testing` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Matam-Rohith/banking-qa-testing) | [![View Report](https://img.shields.io/badge/View%20Report-FF6B6B?style=flat-square&logo=github&logoColor=white)](https://github.com/Matam-Rohith/banking-qa-testing) |
 
 </div>
 
